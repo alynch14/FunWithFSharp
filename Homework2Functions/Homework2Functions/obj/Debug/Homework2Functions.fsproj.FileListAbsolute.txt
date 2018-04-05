@@ -8,3 +8,13 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\Homework2Functions\Homework2
 C:\Users\user\Documents\Visual Studio 2017\Projects\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.fsproj.CoreCompileInputs.cache
 C:\Users\user\Documents\Visual Studio 2017\Projects\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.exe
 C:\Users\user\Documents\Visual Studio 2017\Projects\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.pdb
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\Homework2Functions.exe.config
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\Homework2Functions.XML
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\Homework2Functions.exe
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\Homework2Functions.pdb
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\FSharp.Core.dll
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\bin\Debug\FSharp.Core.xml
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.fsproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.exe
+C:\Users\user\Documents\GitHub\FunWithFSharp\Homework2Functions\Homework2Functions\obj\Debug\Homework2Functions.pdb

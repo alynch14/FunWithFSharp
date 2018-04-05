@@ -26,10 +26,9 @@ let do_funcs() =
     printfn "The minimum value is: %i" result
 
     let del2nd list =
-        let i = 1
-        while i < (List.length-1) list do
-            List.item i list = List.item (i+1) list
-        list
+        let (newList:List<int>) = List.tail list
+        let finalList =List.append [(List.head list)]  newList.Tail
+        finalList
     let list = [ 1; 2; 3; 4; 5]
     let result = (del2nd list)
     printfn "The new list is: %A" result
@@ -62,10 +61,7 @@ let do_funcs() =
     let result = (isMember 3 [1; 2; 3; 4; 5])
     printfn "The new list is: %A" result
 
-    //let countMatches func list = 
+    //let countMatches func list =
 
-            
-        
-    
 do_funcs()
 Console.ReadKey() |> ignore
